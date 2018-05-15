@@ -1,0 +1,16 @@
+{
+  "haam3r@example.com": {
+    "name": "Haam3r Example",
+    "domain": [
+                "example.com",
+                "example.top",
+                "example.info"
+              ]
+  },
+  "manager@exampleorg.com": {
+    "name": "Org Manager",
+    "domain": [
+                  "exampleorg.com"
+                ]
+  }
+}
